@@ -10,7 +10,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "data",
+				"fileName": "salida.txt",
+				"folderPath": "output",
 				"container": "blobcontaineroutput"
 			},
 			"columnDelimiter": ",",
