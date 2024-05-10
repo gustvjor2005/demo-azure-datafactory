@@ -1,0 +1,9 @@
+{
+	"name": "kon-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4c595c03-762e-4978-b6da-31e2127451cd",
+		"tenantId": "f7ff2d6d-7d0e-4d7a-b227-34e4eb71384c"
+	}
+}
